@@ -1,2 +1,2 @@
 # js-sandbox
-Code repo for JavaScript  .
+Code repo for JavaScript.
